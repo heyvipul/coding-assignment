@@ -1,8 +1,27 @@
-# React + Vite
+### website overlook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/491bba10-b800-4033-8bdd-e649c0e718ce)
 
-Currently, two official plugins are available:
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/51877ffa-cf57-476b-8226-0cc2ff7bf614)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/fc8d98a4-84b4-4dd5-b57f-62da1b7753db)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/9129c029-f4ca-462e-bf24-6565e646479e)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/f2a3ec34-dde2-49a6-a1b8-4a52edfcd913)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/b37b184e-6b78-4d5a-b866-3dec38d78c37)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/08c021e6-f8ea-4812-95c1-ce4a39ecb3a1)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/bab7d286-f6aa-4af3-b35a-64d860abb7b3)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/2b8446a8-e919-4876-8fa9-30e6b6232dd6)
+
+
+
+
+
+
+
+
