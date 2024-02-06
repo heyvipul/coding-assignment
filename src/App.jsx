@@ -4,6 +4,7 @@ import Frame2 from './components/Frame2'
 import Frame3 from './components/Frame3'
 import Frame4 from './components/Frame4'
 import Frame5 from './components/Frame5'
+import Frame7 from './components/Frame7'
 import Footer from './components/footer'
 import Navbar from './components/navbar'
 
@@ -18,6 +19,7 @@ function App() {
       <Frame3/>
       <Frame4/>
       <Frame5/>
+      <Frame7/>
       <Footer/>
     </>
   )
