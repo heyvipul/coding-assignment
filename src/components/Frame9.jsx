@@ -1,6 +1,11 @@
 import "../components-css/frame9.css"
+import toast, { Toaster } from 'react-hot-toast';
 
 const Frame9 = () => {
+    function ApplyNow(){
+        toast.success('Thanks for Contacting us!')
+    } 
+    
   return (
     <div className="frame9">
         <div className="inner-div">
@@ -47,7 +52,8 @@ const Frame9 = () => {
                 <p>Anything not clear?</p>
                 <div>
                     <p>You can see our detailed F&Q sessions if you have more quiries. Also we are always a single call away for all your special asks...</p>
-                    <button>Contact US</button>
+                    <button onClick={ApplyNow}>Contact US</button>
+                    <Toaster/>
                 </div>
             </div>
         </div>

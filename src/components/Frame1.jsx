@@ -1,6 +1,12 @@
 import "../components-css/frame1.css"
+import toast, { Toaster } from 'react-hot-toast';
 
 const Frame1 = () => {
+
+    function ApplyNow(){
+        toast.success('Applied successfully!')
+    }
+
   return (
     <div className="frame1">
         <div className="headline">
@@ -42,7 +48,8 @@ const Frame1 = () => {
             </div>
         </div>
 
-        <button className="btn">Apply Now</button>
+        <button onClick={ApplyNow} className="btn">Apply Now</button>
+        <Toaster />
 
         
 

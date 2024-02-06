@@ -1,6 +1,11 @@
 import "../components-css/frame4.css"
+import toast, { Toaster } from 'react-hot-toast';
 
 const Frame4 = () => {
+    function ApplyNow(){
+        toast.success('Applied successfully!')
+    }
+
   return (
     <div className="frame4">
         <div className="div1">
@@ -17,7 +22,8 @@ const Frame4 = () => {
             <div>
                 <p>Customer Share Basic Details</p>
             </div>
-            <button className="btnnow">Apply Now</button>
+            <button onClick={ApplyNow} className="btnnow">Apply Now</button>
+            <Toaster/>
         </div>
     </div>
   )
