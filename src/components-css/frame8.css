@@ -1,0 +1,54 @@
+.frame8{
+    border: 1px solid white;
+    width: 1440px;
+    height: 450px;
+}
+.frame8 > .first h3{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 60.63px;
+    margin-left: 80px;
+}
+.frame8 > .first p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 80px;
+}
+.frame8 > .first button{
+    width: 247px;
+    height: 56px;
+    border-radius: 4px;
+    background-color: rgba(136, 0, 236, 1);
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    line-height: 20px;
+    letter-spacing: 2px;
+    padding: 8px 16px;
+    gap: 8px;
+    margin-left: 80px;
+    border: none;
+}
+.frame8 > .first span{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-left: 80px;
+    text-decoration: underline;
+    margin-top: 20px;    
+}
+.frame8 > .second{
+    width: 232.5px;
+    height: 465.01px;
+    margin-left: 848.59px;
+}
+.frame8 > .second .phone{
+    margin-top: -250px;
+}
+.frame8 > .second .two-man{
+    margin-left: -150px;
+    margin-top: -400px
+}
+

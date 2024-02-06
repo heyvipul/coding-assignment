@@ -38,3 +38,6 @@
     gap: 19px;
     margin-top: -10px;
 }
+.frame7  img:hover{
+    cursor: pointer;
+}
