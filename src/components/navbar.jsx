@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="top-app-bar">
         <div className="primary">
             <div className="col">
-                <img src="https://uprytr.com/wp-content/uploads/2023/11/Tata-Neu-Review.jpg" alt="tatanew.png" />
+                <img src="/public/tataneublack.png" alt="tatanew.png" />
 
                 <div className="menu">
                     <p>Offers</p>
