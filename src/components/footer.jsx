@@ -1,16 +1,22 @@
 import "../components-css/footer.css"
+import tatalogo from "../assets/tataneu.png"
+import facebook from "../assets/social.png"
+import insta from "../assets/socialInsta.png"
+import youtube from "../assets/youtube.png"
+import linkedin from "../assets/linki.png"
+
 
 const Footer = () => {
   return (
     <div className="footer-main">
         <div className="inner-main">
             <div className="first-box">
-                <img src="/public/tataneu.png" alt="tataneu-logo" />
+                <img src={tatalogo} alt="tataneu-logo" />
                 <div className="social">
-                   <img src="/public/social.png" alt="" />
-                   <img src="/public/socialInsta.png" alt="" />
-                   <img src="/public/youtube.png" alt="" />
-                   <img src="/public/linki.png" alt="" />
+                   <img src={facebook} alt="facebook" />
+                   <img src={insta} alt="instagram" />
+                   <img src={youtube} alt="youtube" />
+                   <img src={linkedin} alt="linkedin" />
                 </div>
             </div>
 

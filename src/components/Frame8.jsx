@@ -1,5 +1,7 @@
 import "../components-css/frame8.css"
 import toast, { Toaster } from 'react-hot-toast';
+import iphone from "../assets/frame7/iphone.png"
+import twoman from "../assets/frame7/two-man.png"
 
 const Frame8 = () => {
   function ApplyNow(){
@@ -16,8 +18,8 @@ const Frame8 = () => {
             <span>Terms and Conditions apply</span>
         </div>
         <div className="second">
-            <img className="phone" src="/public/frame7/iphone.png" alt="" />
-            <img className="two-man" src="/public/frame7/two-man.png" alt="" />
+            <img className="phone" src={iphone} alt="png" />
+            <img className="two-man" src={twoman} alt="png" />
         </div>
     </div>
   )

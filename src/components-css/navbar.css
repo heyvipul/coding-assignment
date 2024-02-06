@@ -99,3 +99,9 @@
     height: 24px;
     gap: 24px;
 }
+
+@media (max-width: 500px) {
+    /* .top-app-bar{
+        width: 500px;
+    } */
+}

@@ -1,5 +1,10 @@
 import "../components-css/frame1.css"
 import toast, { Toaster } from 'react-hot-toast';
+import avail from "../assets/assets/avail.png"
+import quick from "../assets/assets/quick.png"
+import hand from "../assets/assets/hand.png"
+import docu from "../assets/assets/docu.png"
+import father from "../assets/assets/father.png"
 
 const Frame1 = () => {
 
@@ -14,7 +19,7 @@ const Frame1 = () => {
         </div>
         <div className="avail-zero">
             <div>
-                <img src="/public/assets/avail.png" alt="" />
+                <img src={avail} alt="avail.png" />
                 <div>
                     <p>Avail Zero</p>
                     <h6>Processing Fee</h6>
@@ -22,7 +27,7 @@ const Frame1 = () => {
                 
             </div>
             <div>
-                <img src="/public/assets/quick.png" alt="" />
+                <img src={quick} alt="png" />
                 <div>
                     <p>Quick</p>
                     <h6>Personal Loan</h6>
@@ -32,7 +37,7 @@ const Frame1 = () => {
 
         <div className="avail-zero1">
             <div>
-                <img src="/public/assets/hand.png" alt="" />
+                <img src={hand} alt="png" />
                 <div>
                     <p>Lowest</p>
                     <h6>Intrest Rates</h6>
@@ -40,7 +45,7 @@ const Frame1 = () => {
                 
             </div>
             <div className="miniamal">
-                <img src="/public/assets/docu.png" alt="" />
+                <img src={docu} alt="png" />
                 <div >
                     <p>Miniamal</p>
                     <h6>Documentation</h6>
@@ -54,7 +59,7 @@ const Frame1 = () => {
         
 
         <div className="father-img">
-            <img src="/public/assets/father.png" alt="" />
+            <img src={father} alt="" />
         </div>
     </div>
   )

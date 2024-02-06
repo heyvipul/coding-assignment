@@ -1,12 +1,13 @@
 import "../components-css/navbar.css"
+import tatalogo from "../assets/tataneublack.png"
+
 
 const Navbar = () => {
   return (
     <div className="top-app-bar">
         <div className="primary">
             <div className="col">
-                <img src="/public/tataneublack.png" alt="tatanew.png" />
-
+                <img src={tatalogo} alt="tatanew.png" />
                 <div className="menu">
                     <p>Offers</p>
                     <p>Stories</p>

@@ -1,5 +1,7 @@
 import "../components-css/frame9.css"
 import toast, { Toaster } from 'react-hot-toast';
+import question from "../assets/frame9/Question Circle.png"
+import plus from "../assets/frame9/plus.png"
 
 const Frame9 = () => {
     function ApplyNow(){
@@ -11,25 +13,25 @@ const Frame9 = () => {
         <div className="inner-div">
             <div>
                 <label className="faq">
-                    <img src="/public/frame9/Question Circle.png" alt="" />
+                    <img src={question} alt="png" />
                     <h2>FAQ'S</h2>
                 </label>
                 <div className="label2">
                     <div className="lorem1">
                         <p>1. Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit.</p>
-                        <img src="/public/frame9/plus.png " alt="" />
+                        <img src={plus} alt="" />
                     </div>
                     <div className="lorem1">
                         <p>2. Lorem Ispum Dolor Sit Amet.</p>
-                        <img src="/public/frame9/plus.png " alt="" />
+                        <img src={plus} alt="" />
                     </div>
                     <div className="lorem1">
                         <p>3. Lorem Ipsum Dolor Sit Amet, Consectetur.</p>
-                        <img src="/public/frame9/plus.png " alt="" />
+                        <img src={plus} alt="" />
                     </div>
                     <div className="lorem1">
                         <p>4. Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing.</p>
-                        <img src="/public/frame9/plus.png " alt="" />
+                        <img src={plus} alt="" />
                     </div>
                     <div className="lorem1">
                         <p>5. Lorem Ipsum.</p>

@@ -1,5 +1,9 @@
 import "../components-css/frame4.css"
 import toast, { Toaster } from 'react-hot-toast';
+import mobile from "../assets/frame4/mobile.png"
+import lighting from "../assets/frame4/Star.png"
+import line from "../assets/frame4/line.png"
+
 
 const Frame4 = () => {
     function ApplyNow(){
@@ -9,15 +13,15 @@ const Frame4 = () => {
   return (
     <div className="frame4">
         <div className="div1">
-            <img src="/public/frame4/mobile.png" alt="" />
+            <img src={mobile} alt="png" />
         </div>
         <div className="div2">
             <div className="lighting">
-                <img src="/public/frame4/Star.png" alt="" />
+                <img src={lighting} alt="png" />
                 <p className="pp">Lightning Fast Process</p>
             </div>
             <div className="line">
-                <img src="/public/frame4/line.png" alt="" />
+                <img src={line} alt="" />
             </div>
             <div>
                 <p>Customer Share Basic Details</p>
