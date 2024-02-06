@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="top-app-bar">
         <div className="primary">
             <div className="col">
-                <img src="/public/tataneublack.png" alt="tatanew.png" />
+                <img src="/src/assets/tataneublack.png" alt="tatanew.png" />
 
                 <div className="menu">
                     <p>Offers</p>
