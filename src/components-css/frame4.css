@@ -1,0 +1,54 @@
+.frame4{
+    display: flex;
+    /* border: 1px solid black; */
+    width: 1440px;
+    height: 611px;
+}
+.frame4 > .div1{
+    /* border: 1px solid rebeccapurple; */
+    width: 690px;
+    height: 574.71px;
+    margin-left: 24px;
+}
+.frame4 > .div2{
+    /* border: 1px solid black; */
+    width: 564px;
+    height: 235px;
+    gap: 51px;
+    margin-top: 180px;
+    text-align: center;
+    margin-left: 50px;
+}
+.frame4 > .div2 > .lighting{
+    display: flex;
+    align-items: center;
+    margin-top: -35px;
+}
+.frame4 > .div2 > div .pp{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 60.63px;    
+}
+.frame4 > .div2 .line{
+    width: 536px;
+    height: 19px;
+    margin-left: 14px;
+}
+.frame4 > .div2 >div p{
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 28..01px;
+    text-align: center;
+}
+.frame4 > .div2 > button{
+    width: 247px;
+    height: 56px;
+    border-radius: 4px;
+    background-color: rgba(136, 0, 236, 1);
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    margin-top: 30px;
+}
