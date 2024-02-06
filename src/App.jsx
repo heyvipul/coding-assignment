@@ -6,6 +6,7 @@ import Frame4 from './components/Frame4'
 import Frame5 from './components/Frame5'
 import Frame7 from './components/Frame7'
 import Frame8 from './components/Frame8'
+import Frame9 from './components/Frame9'
 import Footer from './components/footer'
 import Navbar from './components/navbar'
 
@@ -22,6 +23,7 @@ function App() {
       <Frame5/>
       <Frame7/>
       <Frame8/>
+      <Frame9/>
       <Footer/>
     </>
   )

@@ -1,0 +1,89 @@
+.frame9{
+    /* border: 1px solid red; */
+    width: 1440px;
+    height: 829px;
+}
+.frame9 > .inner-div{
+    /* border: 1px solid black; */
+    width: 1280px;
+    height: 715px;
+    gap: 50px;
+    margin-left: 80px;
+    margin-top: 62px;
+}
+.frame9 > .inner-div >div label{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-top: -30px;
+}
+.frame9 > .inner-div >div label img{
+    width: 50px;
+    height: 50px;
+}
+.frame9 > .inner-div >div label h2{
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 60.63px;
+}
+.frame9 > .inner-div >div .label2{
+    /* border: 1px solid red; */
+    width: 1280px;
+    height: 370px;
+    gap: 36px;
+}
+.frame9 > .inner-div >div .label2 .lorem1 img:hover{
+    cursor: pointer;
+}
+.frame9 > .inner-div >div .label2 .lorem1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -5px;
+}
+.frame9 > .inner-div >div .label2  >.lorem1 p{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.92px;
+}
+.frame9 > .inner-div > .bottom{
+    border: 1px solid white;
+    width: 1280px;
+    height: 174px;
+    margin-top: 50px;
+    border-radius: 12px;
+    background-color: rgb(249,242,254);
+    
+}
+.frame9 > .inner-div  .bottom > p{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.23px;
+    margin-left: 51px;
+    color: rgba(42, 42, 42, 1);
+}
+.frame9 > .inner-div  .bottom > div {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    margin-right: 20px;
+    margin-left: 51px;
+}
+.frame9 > .inner-div  .bottom > div > p{ 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: -2px;
+   
+}
+.frame9 > .inner-div  .bottom > div > button{
+    width: 216px;
+    height: 56px;
+    border-radius: 4px;
+    background-color: rgba(136, 0, 236, 1);
+    font-size: 18px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+}
+

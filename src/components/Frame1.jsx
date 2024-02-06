@@ -33,9 +33,9 @@ const Frame1 = () => {
                 </div>
                 
             </div>
-            <div>
+            <div className="miniamal">
                 <img src="/public/assets/docu.png" alt="" />
-                <div>
+                <div >
                     <p>Miniamal</p>
                     <h6>Documentation</h6>
                 </div>

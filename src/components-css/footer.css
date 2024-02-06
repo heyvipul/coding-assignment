@@ -84,3 +84,34 @@
 
 }
 
+/* responsive */
+/* Importing external CSS file */
+
+/* Media query for tablets */
+@media only screen and (max-width: 768px) {
+  .inner-main {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .second-box {
+    margin-top: 20px; /* Adjust spacing between the two boxes */
+  }
+  
+  .property, .contact {
+    text-align: center; /* Center align content in both boxes */
+  }
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 480px) {
+  .first-box, .second-box {
+    text-align: center; /* Center align both boxes */
+  }
+  
+  .social img {
+    margin: 0 5px; /* Adjust spacing between social icons */
+  }
+}
+
+
