@@ -1,9 +1,14 @@
 import "../components-css/navbar.css"
 import tatalogo from "../assets/tataneublack.png"
+import { useState } from "react";
 
 
 const Navbar = () => {
+
+    const [menuDisplay, setMenuDisplay] = useState('none');
+
   return (
+    <>
     <div className="top-app-bar">
         <div className="primary">
             <div className="col">
@@ -16,6 +21,9 @@ const Navbar = () => {
                 </div>
             </div>
 
+            {/* side bar dot */}
+
+            
             <div className="col2">
                 <div className="icon">
                     <svg xmlns="http://www.w3.org/2000/svg" fontWeight={400} width={16}  fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
@@ -46,13 +54,26 @@ const Navbar = () => {
 
                 </div>
                 
-                
-                
-
             </div>
 
         </div>
-    </div>
+
+        </div>
+
+        <div className="menuu">
+            <button onClick={() => setMenuDisplay(prevDisplay => prevDisplay === "block" ? "none" : "block")} className="menu-button" id="menuButton">
+                <div className="dot"></div>
+                <div className="dot"></div>
+                <div className="dot"></div>
+            </button>
+            <div style={{ display: menuDisplay }} className="menu-content" id="menuContent">
+                    <a href="#">Offers</a>
+                    <a href="#">Stories</a>
+                    <a href="#">TataPay</a>
+                    <a href="#">NeuPass</a>
+            </div>
+        </div>
+    </>
   )
 }
 
