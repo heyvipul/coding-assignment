@@ -2,9 +2,6 @@
 
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/491bba10-b800-4033-8bdd-e649c0e718ce)
 
-![image](https://github.com/heyvipul/coding-assignment/assets/131906819/f28eb84b-8206-4838-a1a5-35fd0cc4a7b3) ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/80eaf1d2-1f94-4ba3-a8b7-01d60912e588)
-
-
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/51877ffa-cf57-476b-8226-0cc2ff7bf614)
 
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/fc8d98a4-84b4-4dd5-b57f-62da1b7753db)
@@ -20,6 +17,10 @@
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/bab7d286-f6aa-4af3-b35a-64d860abb7b3)
 
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/2b8446a8-e919-4876-8fa9-30e6b6232dd6)
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/f28eb84b-8206-4838-a1a5-35fd0cc4a7b3) 
+
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/80eaf1d2-1f94-4ba3-a8b7-01d60912e588)
 
 
 
