@@ -14,7 +14,7 @@
 
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/08c021e6-f8ea-4812-95c1-ce4a39ecb3a1)
 
-![image](https://github.com/heyvipul/coding-assignment/assets/131906819/bab7d286-f6aa-4af3-b35a-64d860abb7b3)
+![image](https://github.com/heyvipul/coding-assignment/assets/131906819/dae880c2-ec6c-4399-ab71-15b4e3038a2a)
 
 ![image](https://github.com/heyvipul/coding-assignment/assets/131906819/2b8446a8-e919-4876-8fa9-30e6b6232dd6)
 
